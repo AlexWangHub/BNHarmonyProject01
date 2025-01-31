@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/BNRegisterPage",
+    "pages/Index",
+    "pages/BNPortraitAlbumPage",
+    "pages/BNVideoAlbumPage",
+    "pages/BNVideoPublishPage"
+  ]
+}
